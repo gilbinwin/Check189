@@ -6,6 +6,7 @@ import hashlib
 import urllib.parse, hmac
 import rsa
 import requests
+import random
 
 BI_RM = list("0123456789abcdefghijklmnopqrstuvwxyz")
 
